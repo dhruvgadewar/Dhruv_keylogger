@@ -12,11 +12,11 @@
 https://github.com/dhruvgadewar/Dhruv_keylogger/assets/163728245/edf34c5e-749a-430a-8154-6a41cdd78e44
 
 <p>NOTE:- The file used in this Demo video is executable file made from these python code. you can directly run the python code on the editor.
-          If you want to make the executable file of the code follow the following steps:
-          step1: visit to the directory of your code.
-          step2: open command prompt.
-          step3: install pyinstaller using command : pip install pyinstaller
-          step4: enter command : pyinstaller filename.py --onefile --noconsole 
+          If you want to make the executable file of the code follow the following steps:<br>
+          step1: visit to the directory of your code.<br>
+          step2: open command prompt.<br>
+          step3: install pyinstaller using command : pip install pyinstaller<br>
+          step4: enter command : pyinstaller filename.py --onefile --noconsole <br>
           step5: check whether the executable file is created or not.</p>
 
   
