@@ -58,7 +58,3 @@ Technologies used in the project:
 <h2>⚠️ Disclaimer:</h2>
 Warning: This software is intended for educational and research purposes only. It should only be used on systems where you have explicit permission to monitor keystrokes. Misuse of this software may violate privacy laws.
 
-
-<h2>💖Like my work?</h2>
-
-<p><a href="https://www.dhruvgadewar.vercel.app" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a></p>
